@@ -1,0 +1,14 @@
+.cmb,
+.ncmb {
+   font-size: 28px;
+   font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.cmb {
+   background: black;
+   color: white;
+}
+
+.ncmb {
+   background: yellow;
+}
