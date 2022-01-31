@@ -3,8 +3,8 @@
   color: hsl(0, 100%, 50%);
 }
 
-.small-para {
-  font-size: 20px;
+.para.small-para {
+  font-size: 12px;
 }
 
 .para {
