@@ -11,14 +11,17 @@ body {
 
 .title {
   background: #e3f4ff;
+  border: none;
 }
 
 .content {
   background: #e3f4ff;
+  border: none;
 }
 
 .button-container {
   background: #e3f4ff;
+  border: none;
 }
 
 button {
