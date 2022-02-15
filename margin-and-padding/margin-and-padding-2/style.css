@@ -6,9 +6,7 @@ body {
 .card {
   width: 400px;
   background: #fff;
-  margin: auto;
-  display:inline-block;
-  text-align: center;
+  margin: auto
 }
 
 .title {
