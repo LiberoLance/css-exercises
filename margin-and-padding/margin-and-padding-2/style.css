@@ -19,7 +19,9 @@ body {
 
 .content {
   background: #e3f4ff;
+  margin: 8px;
   border: none;
+  padding: 16px 8px; 
 }
 
 .button-container {
