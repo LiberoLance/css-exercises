@@ -1,11 +1,11 @@
 body {
   background: #eee;
   font-family: sans-serif;
-  height: 250px;
 }
 
 .card {
   width: 400px;
+  height: 250px;
   background: #fff;
   margin: 16px auto;
 }
