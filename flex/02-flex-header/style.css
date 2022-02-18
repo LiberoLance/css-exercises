@@ -2,7 +2,7 @@
   font-family: monospace;
   background: papayawhip;
   display flex;
-  flex-flow: row wrap;
+  flex-flow: column wrap;
 }
 
 .left-links {
