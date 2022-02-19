@@ -16,6 +16,9 @@ body {
   justify-content: space-between;
 }
 
+.lefth {
+}
+
 .profile-image {
   background: rebeccapurple;
   box-shadow: inset 2px 2px 4px rgba(0,0,0,.5);
@@ -29,6 +32,9 @@ body {
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
+}
+
+.righth {
 }
 
 button {
