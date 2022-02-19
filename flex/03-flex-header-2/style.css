@@ -15,12 +15,12 @@ body {
   padding: 8px;
   display: flex;
   justify-content: space-between;
-  align-items: center;
 }
 
 .lefth {
   display: flex;
   gap: 16px;
+  align-items: center;
 }
 
 .profile-image {
@@ -40,6 +40,7 @@ body {
 
 .righth {
   display: flex;
+  align-items: center;
   gap: 16px;
 }
 
@@ -59,7 +60,7 @@ a {
 
 ul {
   margin: 0;
-  padding: 8px;
+  padding: 0;
   list-style-type: none;
   display: flex;
   gap: 16px;
