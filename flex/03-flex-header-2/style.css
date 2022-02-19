@@ -19,6 +19,7 @@ body {
 
 .lefth {
   display: flex;
+  gap: 16px;
 }
 
 .profile-image {
@@ -38,6 +39,7 @@ body {
 
 .righth {
   display: flex;
+  gap: 16px;
 }
 
 button {
