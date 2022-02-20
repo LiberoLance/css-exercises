@@ -17,7 +17,8 @@ body {
   justify-content: space-between;
 }
 
-.lefth {
+.lefth,
+.right {
   display: flex;
   gap: 16px;
   align-items: center;
@@ -36,12 +37,6 @@ body {
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
-}
-
-.righth {
-  display: flex;
-  align-items: center;
-  gap: 16px;
 }
 
 button {
