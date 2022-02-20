@@ -23,6 +23,7 @@ ul {
   display: flex;
   align-items: center;
   gap: 52px;
+  flex-wrap: wrap;
 }
 
 /* do not edit this footer */
