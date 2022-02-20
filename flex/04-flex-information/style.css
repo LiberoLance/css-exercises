@@ -10,9 +10,7 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
-  width: auto;
-  height: auto;
-  margin: 0 auto;
+  text-align: center;
 }
 
 /* do not edit this footer */
