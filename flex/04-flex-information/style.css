@@ -17,13 +17,15 @@ img {
 
 ul {
   list-style-type: none;
-  width: 200px;
-  height: auto;
   margin: 0;
   padding: 0;
   display: flex;
   justify-content: space-evenly;
   gap: 52px;
+}
+
+li {
+  width: 200px;
 }
 
 /* do not edit this footer */
