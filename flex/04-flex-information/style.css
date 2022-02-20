@@ -22,7 +22,6 @@ ul {
   padding: 0;
   display: flex;
   gap: 52px;
-  flex-wrap: wrap;
 }
 
 /* do not edit this footer */
