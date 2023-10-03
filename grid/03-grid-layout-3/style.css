@@ -17,6 +17,8 @@
 
 .header {
   background-color: #393f4d;
+  display: grid;
+  grid-template-columns: .5fr 1fr;
 }
 
 .logo {
@@ -26,6 +28,9 @@
 }
 
 .menu ul {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  list-style-type: none;
 }
 
 .menu ul,
